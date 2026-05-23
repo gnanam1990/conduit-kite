@@ -2,6 +2,13 @@
 
 Pay-per-call API marketplace on Kite Mainnet. Service operators list APIs, agents discover and pay via x402.
 
+## Deployment
+
+- **Production:** https://conduit-kite.vercel.app
+- **Host:** Vercel (`conduit-kite`)
+- **Status:** production URL verified; registry and KiteIndex-backed usage data require production env configuration
+- **Last verified:** 2026-05-23
+
 ## Features
 
 - Service registration with viem signature verification
